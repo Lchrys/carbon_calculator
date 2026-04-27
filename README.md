@@ -18,6 +18,10 @@ Uma aplicação web interativa para calcular a emissão de carbono das suas viag
 - **Banco de Dados**: Rotas brasileiras com distâncias em km
 - **Deploy**: GitHub Pages com GitHub Actions
 
+## 🤖 Desenvolvido com GitHub Copilot
+
+Este projeto foi desenvolvido como parte de um desafio educacional da **DIO (Digital Innovation One)** utilizando **GitHub Copilot** para otimizar o desenvolvimento. O código foi gerado com assistência de IA, demonstrando o poder das ferramentas modernas de desenvolvimento.
+
 ## 📁 Estrutura do Projeto
 
 ```
@@ -98,8 +102,15 @@ python -m http.server 8000
 # Abra no navegador
 # http://localhost:8000
 ```
+
+**Tecnologias de Desenvolvimento:**
+- 🤖 GitHub Copilot para geração de código
+- 💻 Visual Studio Code
+- 🚀 GitHub Pages para deploy
+
 ---
 
 **Dicas úteis:**
 - 🌍 As rotas incluem cidades brasileiras de todas as regiões
 - 💡 Use a opção de inserção manual para calcular distâncias personalizadas
+- 🤖 Este projeto é um exemplo de como usar GitHub Copilot para desenvolvimento web
